@@ -1,4 +1,4 @@
-# scrapy-keskisuomalainen-kuntavaalit2021
+# scrapy-kuntavaalit2021-keskisuomalainen
 Fetch all from [Keskisuomalainen Kuntavaalit 2021](https://www.ksml.fi/vaalikone/#/) site
 
     scrapy crawl kaikki
